@@ -1,3 +1,6 @@
+This project is tutorial.
+By https://dev.classmethod.jp/articles/amplify-react-cicd-tutorial/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
